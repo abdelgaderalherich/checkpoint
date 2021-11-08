@@ -1,0 +1,15 @@
+#contner {
+width: 80%;
+margin: 0 auto;
+text-align: center;
+
+}
+#texst {
+    font-size: 28px;
+}
+
+#zar {
+    display: inline-block;
+    padding: 10px 25px;
+    margin:bottom: 30px;
+}
